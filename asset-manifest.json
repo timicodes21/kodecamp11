@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kodecamp11/static/css/main.ea0cb664.css",
+    "main.js": "/kodecamp11/static/js/main.fc22fa0e.js",
+    "static/js/787.c178dd94.chunk.js": "/kodecamp11/static/js/787.c178dd94.chunk.js",
+    "index.html": "/kodecamp11/index.html",
+    "main.ea0cb664.css.map": "/kodecamp11/static/css/main.ea0cb664.css.map",
+    "main.fc22fa0e.js.map": "/kodecamp11/static/js/main.fc22fa0e.js.map",
+    "787.c178dd94.chunk.js.map": "/kodecamp11/static/js/787.c178dd94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0cb664.css",
+    "static/js/main.fc22fa0e.js"
+  ]
+}
