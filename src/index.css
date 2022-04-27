@@ -3,3 +3,27 @@ body{
   padding: 0;
   box-sizing: border-box;
 }
+
+.font-14{
+  font-size: 14px;
+}
+
+.font-16{
+  font-size: 16px;
+}
+
+.font-18{
+  font-size: 18px;
+}
+
+.font-24{
+  font-size: 24px;
+}
+
+.font-36{
+  font-size: 36px;
+}
+
+.font-28{
+  font-size: 28px;
+}
